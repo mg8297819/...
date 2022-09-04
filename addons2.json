@@ -1,5 +1,24 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allanime.site&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 30169,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AllAnimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AllAnimeProvider.cs3",
+        "name": "AllAnimeProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
@@ -7,7 +26,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            
+            "Hexated"
         ],
         "tvTypes": [
             "AsianDrama",
