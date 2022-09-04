@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 18816,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "KisskhProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+    {
